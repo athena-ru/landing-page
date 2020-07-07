@@ -1,0 +1,32 @@
+.footer {
+	background-color: #01091b;
+	padding: 50px 0px;
+	margin-top: 30px;
+	background-size: cover;
+	background-position: center;
+}
+
+#footer-header {
+	text-align: center;
+	color: white;
+	font-size: 36px;
+}
+
+.footer-content {
+	text-decoration: none;
+	color: white;
+	list-style: none;
+	padding-left: 0px;
+	font-size: 60px;
+	text-align: center;
+}
+
+.footer-content li {
+	display: inline;
+	padding: 10px;
+}
+
+.footer-content i:hover {
+	color:#4f93b9;
+	text-decoration: none;
+}

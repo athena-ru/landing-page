@@ -1,0 +1,84 @@
+.d-block {
+	width: 1000px;
+	height: 650px;
+}
+
+
+@media only screen and (min-width: 487px) {
+	.d-block {
+	width: 100%;
+	height: 75%;
+	}
+}
+
+
+@media only screen and (min-width: 540px) {
+	.d-block {
+	width: 100%;
+	height: 80%;
+	}
+}
+
+@media only screen and (min-width: 767px) {
+	.d-block {
+	width: 100%;
+	height: 85%;
+	}
+}
+
+@media only screen and (min-width: 960px) {
+	.d-block {
+	width: 100%;
+	height: 95%;
+	}
+}
+
+@media only screen and (min-width: 487px) {
+	.carousel-caption h5 {
+	font-size: 10px;
+	}	
+}
+
+@media only screen and (min-width: 487px) {
+	.carousel-caption p {
+	font-size: 7px;
+	margin-bottom: auto;
+	}	
+}
+
+@media only screen and (min-width: 540px) {
+	.carousel-caption h5 {
+	font-size: 16px;
+	}	
+}
+
+@media only screen and (min-width: 540px) {
+	.carousel-caption p {
+	font-size: 13px;
+	margin-bottom: auto;
+	}	
+}
+
+@media only screen and (min-width: 767px) {
+	.carousel-caption h5 {
+	font-size: 18px;
+	}	
+}
+
+@media only screen and (min-width: 767px) {
+	.carousel-caption p {
+	font-size: 16px;
+	}	
+}
+
+@media only screen and (min-width: 960px) {
+	.carousel-caption h5 {
+	font-size: 20px;
+	}	
+}
+
+@media only screen and (min-width: 960px) {
+	.carousel-caption p {
+	font-size: 18px;
+	}	
+}
